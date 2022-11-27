@@ -1,5 +1,5 @@
-## Project deployment link => https://ckchandan536.github.io/Instagram-clone-v.1/
-# To deploy this project on github watch this video on youtube https://www.youtube.com/watch?v=hrwl5jVcfXc
+# Project deployment link => https://ckchandan536.github.io/Instagram-clone-v.1/
+### To deploy this project on github watch this video on youtube https://www.youtube.com/watch?v=hrwl5jVcfXc
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
