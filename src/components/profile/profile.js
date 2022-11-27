@@ -12,6 +12,7 @@ import { tSIntersectionType } from '@babel/types';
 import { AiOutlineCloseSquare } from 'react-icons/ai';
 import ModalImage from "react-modal-image";
 
+
 export const Profile = (props) => {
     const [activeSection, setSection] = useState('post');
     const [toggleModal, setModal] = useState(false);
