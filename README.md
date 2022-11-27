@@ -1,4 +1,4 @@
-# Project deployment link => https://ckchandan536.github.io/Instagram-clone-v.1/
+# Project deployment link => https://ckchandan536.github.io/Instagram-clone-v.1/ [ open in incognito mode ]
 ### To deploy this project on github watch this video on youtube https://www.youtube.com/watch?v=hrwl5jVcfXc
 # Getting Started with Create React App
 
