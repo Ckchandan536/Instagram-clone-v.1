@@ -1,8 +1,17 @@
 # Project deployment link => https://ckchandan536.github.io/Instagram-clone-v.1/ [ open in incognito mode ]
 ### To deploy this project on github watch this video on youtube https://www.youtube.com/watch?v=hrwl5jVcfXc
 # Getting Started with Create React App
+![msg-757110819-4871](https://user-images.githubusercontent.com/97597920/204140622-bc05b657-1f9d-4e33-861e-80a0791fc50f.jpg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![msg-757110819-4866 (1)](https://user-images.githubusercontent.com/97597920/204140644-7f627779-3f60-4197-abaa-1e80f5f28982.jpg)
+![msg-757110819-4867](https://user-images.githubusercontent.com/97597920/204140649-57c3547c-113e-4508-8648-6ea55c48d719.jpg)
+
+![ezgif-3-535ba9108c](https://user-images.githubusercontent.com/97597920/204140780-87e5d1d8-0da3-4d0c-bbc6-aa598efbcde1.gif)
+
+
+
+
+
 
 ## Available Scripts
 
