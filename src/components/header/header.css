@@ -1,0 +1,84 @@
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #e2e2e2d1;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+header .header-container {
+    max-width: 1120px;
+    margin : auto;
+    position: relative;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+header .logo {
+    width: 100px;
+}
+
+header .logo img {
+    width: 100%
+}
+
+/* link tag are same as anchor tag */
+a{
+    color: #727272;
+    outline: none;
+}
+
+/* : sudo selector */
+a:hover {
+    color: #000;
+}
+
+/* navbar  */
+.nav {
+  display: flex;
+}
+
+.nav a {
+    margin-right: 10px;
+}
+
+.search-bar input{
+    background-color: #efefef;
+    outline: none;
+    border: 0;
+    font-size: 16px;
+    padding: 10px;
+    width: 320px;
+    border-radius: 4px;
+}
+
+.search {
+    position: relative;
+}
+
+.search-icon {
+    position: absolute;
+    right: 8px;
+    top: 10px;
+}
+
+/* initaily our search icon nav is hidden
+but when screen size is geeting smaller it will shown  */
+.search-icon-nav {
+    display: none;
+    margin-right: 10px;
+    color:#727272
+}
+
+@media (width < 520px){
+    .search {
+        display: none;
+    }
+
+    .search-icon-nav {
+        display: inline-block;
+    }
+}

@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fafafa;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.instagram-container {
+  margin-top: 80px;
+  
+}
+
+* {
+  box-sizing: border-box;
+  /* that means when we apply any padding or margin with width together 
+  than text box will come in side the width it will not extend the width
+  it will not count padding pixel and not add it to the width  */
 }
